@@ -1,0 +1,3 @@
+[target.riscv64gc-unknown-linux-musl]
+image = "riscv-musl:0.5"
+xargo = false
